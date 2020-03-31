@@ -1,0 +1,15 @@
+<page xmlns="http://projectmallard.org/1.0/"
+    type="topic"
+    id="summary">
+<info>
+ <link type="guide" xref="index"/>
+</info>
+<title>1. Basic information</title>
+<p>The following basic information is logged for each report:</p>
+<steps>
+ <item><p>Date and time;</p></item>
+ <item><p>User performating registered action;</p></item>
+ <item><p>Document to which reference was made;</p></item>
+ <item><p>Access to the document (whether the event was successful).</p></item>
+</steps>
+</page>
